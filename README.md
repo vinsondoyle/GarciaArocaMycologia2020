@@ -32,7 +32,7 @@ Authors: Teddy Garcia-Aroca<sup>a</sup>, Paul P Price<sup>b</sup>, Brooklyn M. S
 
 
 
-Methods (Phylogeny-related)
+# Methods (Phylogeny-related)
 
 ## Methods
 ### Fungal isolates from Taproot decline (TRD) and historical specimens
