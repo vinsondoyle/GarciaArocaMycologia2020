@@ -1,0 +1,7 @@
+This directory contains the ML phylogeny with both bootstrap support (>=70%) and posterior probabilities (>=0.85) mapped.
+
+The file with all bipartitions shown:
+Xylaria.180.conc.gui.mask.opt.BS.PP.sumlabels.tre
+
+The final tree figure with non-focal clades collapsed:
+Xylaria.necrophora.speciesDescription.Figure2.V12.tif
