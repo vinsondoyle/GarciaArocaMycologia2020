@@ -1,6 +1,15 @@
-# The following files are in the MaximumLikelihood directory.
+The following files are in the MaximumLikelihood directory:
 
-## Alignments/RAxML input files:
+#Alignments/RAxML input files (phylip format) for concatenated and individual genes (nrITS, ACT, TUB2, and RPB2):
+Xylaria.156.TUB.gui.mask1.phylip						
+Xylaria.158.RPB2.gui.mask1.phylip			
+Xylaria.160.ACT.gui.mask002.phylip
+Xylaria.176.ITS.gui.mask0007.phylip
+Xylaria.180.conc.gui.mask.opt.phy
 
-
-## ML trees with bootstrap support:
+#ML trees with bootstrap support mapped: 
+Xylaria.156.TUB.gui.mask1.opt.raxml.best.support.tre
+Xylaria.158.RPB2.gui.mask1.opt.raxml.best.support.tre
+Xylaria.160.ACT.gui.mask002.opt.raxml.best.support.tre
+Xylaria.176.ITS.gui.mask0007.opt.raxml.best.support.tre
+Xylaria.180.conc.gui.mask.opt.raxml.best.support.tre
