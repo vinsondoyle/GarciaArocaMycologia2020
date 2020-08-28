@@ -1,15 +1,15 @@
 The following files can be found in this directory:
 
 #Alignments for analysis with MrBayes with model parameters and partitions (from Sequence Matrix Version 100.0) for concatenated DNA sequences of four loci (nrITS, ACT, TUB and RPB2) and individual alignments for each loci:
-Xylaria.180.conc.gui.mask.opt.non.int.mod.nex
-Xylaria.176.ITS.gui.mask0007.opt.nex
-Xylaria.160.ACT.gui.mask002.opt.nex
-Xylaria.158.RPB2.gui.mask1.opt.nex
-Xylaria.156.TUB.gui.mask1.opt.nex
+Xylaria.159.TUB.gui.mask.opt.non.int.FINAL.v2.nex
+Xylaria.163.ACT.gui.mask.opt.non.int.FINAL.v2.nex
+Xylaria.168.RPB2.gui.mask.opt.FINAL.V2.nex
+Xylaria.188.ITS.gui.mask.opt.non.int.FINAL.v2.nex
+Xylaria.194.conc.gui.mask.opt.non.int.FINAL.August2020.V2.nex
 
 #The majority-rule consensus tree for each alignment computed by SumTrees with 25% burn-in and posteriors >= 0.85 mapped to 2 decimal places:
-Xylaria.180.conc.gui.mask.opt.non.int.6.mill.gen.hpc.con.tre
-Xylaria.176.ITS.gui.mask0007.opt.cip.mb.con.tre
-Xylaria.160.ACT.gui.mask002.opt.cip.mb.con.tre
-Xylaria.158.RPB2.gui.mask1.opt.cip.mb.con.tre
-Xylaria.156.TUB.gui.mask1.opt.cip.mb.con.tre			
+Xylaria.159.TUB.gui.mask.opt.non.int.FINAL.v2.sumtrees.con.tre
+Xylaria.163.ACT.gui.mask.opt.non.int.FINAL.v2.sumtrees.con.tre
+Xylaria.168.RPB2.gui.mask.opt.FINAL.V2.sumtrees.con.tre
+Xylaria.188.ITS.gui.mask.opt.non.int.FINAL.v2.sumtrees.con.tre
+Xylaria.194.con.gui.mask.opt.FINAL.August2020.V2.sumtrees.con.tre	
