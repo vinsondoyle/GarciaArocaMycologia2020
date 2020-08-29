@@ -1,24 +1,11 @@
 This directory contains the ML phylogeny with both bootstrap support (>=70%) and posterior probabilities (>=0.85) mapped for:
 
 # A file with all bipartitions shown (nrITS, ACT, TUB2, and RPB2) and one file for each individual phylogeny:
-Xylaria.180.conc.gui.mask.opt.BS.PP.sumlabels.tre
-Xylaria.176.ITS.gui.mask0007.opt.sumlabels.ML.BS.BI.PP.out.tre
-Xylaria.160.ACT.gui.mask002.opt.sumlabels.ML.BS.BI.PP.out.tre
-Xylaria.158.RPB2.gui.mask1.opt.sumlabels.ML.BS.BI.PP.out.tre
-Xylaria.156.TUB.gui.mask1.opt.sumlabels.ML.BS.BI.PP.out.tre
-
-#Indivial pdf files for each of the trees provided above:
-Xylaria.180.conc.gui.mask.opt.BS.PP.sumlabels.orderedTips.tre.pdf
-Xylaria.176.ITS.gui.mask0007.opt.sumlabels.ML.BS.BI.PP.out.mod2.tre.pdf
-Xylaria.160.ACT.gui.mask002.opt.sumlabels.ML.BS.BI.PP.out.mod1.tre.pdf	
-Xylaria.158.RPB2.gui.mask1.opt.sumlabels.ML.BS.BI.PP.out.mod1.tre.pdf
-Xylaria.156.TUB.gui.mask1.opt.sumlabels.ML.BS.BI.PP.out.mod1.tre.pdf
+Xylaria.159.TUB.gui.mask.0.93.FINAL.ML.PP.tre
+Xylaria.163.ACT.gui.mask.0.2.FINAL.ML.PP.tre
+Xylaria.168.RPB2.gui.mask.0.93.FINAL.ML.BS.BI.PP.out.tre
+Xylaria.188.ITS.gui.mask.0.07.FINAL.ML.PP.tre
+Xylaria.194.conc.gui.mask.opt.FINAL.August2020.v2.sumlabels.ML.BS.BI.PP.out.tre
 
 #The final figure with non-focal clades collapsed
-Xylaria.necrophora.speciesDescription.Figure2.V12.tif
-	
-
-	
-		
-
-		
+Xylaria.194.conc.gui.mask.opt.FINAL.August2020.v2.sumlabels.ML.BS.BI.PP.out.tre.pdf
