@@ -1,11 +1,26 @@
 This directory contains the ML phylogeny with both bootstrap support (>=70%) and posterior probabilities (>=0.85) mapped for:
 
-# A file with all bipartitions shown (nrITS, ACT, TUB2, and RPB2) and one file for each individual phylogeny:
+# A file with all bipartitions shown (nrITS, ACT, TUB2, and RPB2) and one file for each individual phylogeny (raw trees):
 Xylaria.159.TUB.gui.mask.0.93.FINAL.ML.PP.tre
 Xylaria.163.ACT.gui.mask.0.2.FINAL.ML.PP.tre
 Xylaria.168.RPB2.gui.mask.0.93.FINAL.ML.BS.BI.PP.out.tre
 Xylaria.188.ITS.gui.mask.0.07.FINAL.ML.PP.tre
 Xylaria.194.conc.gui.mask.opt.FINAL.August2020.v2.sumlabels.ML.BS.BI.PP.out.tre
 
-#The final figure with non-focal clades collapsed
-Xylaria.194.conc.gui.mask.opt.FINAL.August2020.v2.sumlabels.ML.BS.BI.PP.out.tre.pdf
+#The above trees with results mapped and rooted at (midpoint), mapped labels (BS/PP), and branches sorted in descending order:
+Xylaria.159.TUB.gui.mask.0.93.FINAL.ML.PP.mod.tre
+Xylaria.163.ACT.gui.mask.0.2.FINAL.ML.PP.mod.tre
+Xylaria.168.RPB2.gui.mask.0.93.FINAL.ML.BS.BI.PP.out.mod.tre
+Xylaria.188.ITS.gui.mask.opt.0.07.FINAL.ML.PP.mod.tre
+Xylaria.194.conc.gui.mask.opt.FINAL.August2020.v2.sumlabels.ML.BS.BI.PP.out.mod.tre
+
+#PDF versions of final trees with bootstrap and posterior prob (BS/PP) mapped on branches.
+Xylaria.159.TUB.gui.mask.0.93.FINAL.ML.PP.mod.tre.pdf
+Xylaria.163.ACT.gui.mask.0.2.FINAL.ML.PP.mod.tre.pdf
+Xylaria.168.RPB2.gui.mask.0.93.FINAL.ML.BS.BI.PP.out.mod.tre.pdf
+Xylaria.188.ITS.gui.mask.opt.0.07.FINAL.ML.PP.mod.tre.pdf
+Xylaria.194.conc.gui.mask.opt.FINAL.August2020.v2.sumlabels.ML.BS.BI.PP.out.mod.tre.pdf
+
+
+#The final figure (Figure 2 in manuscript) with non-focal clades collapsed
+Xylaria.194.conc.gui.mask.opt.FINAL.August2020.v2.sumlabels.ML.BS.BI.PP.out.mod.CollasepClades.tre.pdf
