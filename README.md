@@ -1,6 +1,6 @@
 # GarciaArocaMycologia2020
 
-The alignments for the maximum likelihood (ML) and Bayesian phylogenetic analyses as well as the resulting inferred phylogenies are contained in this repository. The input files and resulting trees are contained in folders for the ML and Bayesian analyses, resepctively.
+The alignments for the maximum likelihood (ML) and Bayesian phylogenetic analyses as well as the resulting inferred phylogenies are contained in this repository. The input files and resulting trees are contained in folders for the ML and Bayesian analyses, respectively.
 
 Below is information regarding methods pertinent to the data in this repository. These methods are an excerpt from the manuscript submitted to Mycologia.
 
